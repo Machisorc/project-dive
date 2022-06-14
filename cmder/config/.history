@@ -1,0 +1,134 @@
+cd C:\Users\Documents\GitHub
+git push origin mastr
+git commit -m "Разметка index.html, catalog.html, form.html по БЭМ"
+cd C:\\
+cd C:\\users\documents
+cd 1051133-cat-energy-18
+cd C:\Users\Denis\Documents\GitHub\1051133-cat-energy-18
+git push origin modele2-task1
+cd catenergy
+cd C:\users
+cd C:\users\denis
+cd C:\users\denis\documents
+cd C:\users\denis\documents\github
+cd C:\users\denis\documents\github\1051133-cat-energy-18
+node
+npm install -g npm@6.2.0
+npm install -g npm@7.1.0
+$ npm install --global download-cli
+npm install -g npm@6.12.0
+npm uninstall
+npm 
+npm audit fix
+npm install npm@latest -g
+npm install npm@latest
+cd C:\Users\denis\documents
+dir
+git commit -m "Правки index.html"
+npm install -g @htmlacademy/editorconfig-cli
+stylelint
+npm stylelint
+git push
+git checkout
+git checkout 
+git checkout -b 
+eval npm ci
+git branch module2-task1 delete
+git branch - m module2-task1 deletethis
+git branch -m module2-task1 deletethis
+git chekout origin
+run stylelint
+git pull master-academy master
+git pull academy-master master
+git pull academy_master master
+git checkout -b module2_task1
+git commit -a "Правки"
+git commit -a
+cd C:\Users\denis\documents\github\1051133-cat-energy-18
+git checkout -b origin
+git checkout -b master
+git checkout  master
+git pull master module2-task1
+git push master module2-task1
+git checkout module2_task1
+cd C:\Users\denis\documents\github\
+cd C:\Users\Denis\Desktop\github
+cd C:\Users\Denis\Desktop\git
+git clone git@github.com:Machisorc/1051133-cat-energy-18.git
+git clone git@github.com:Machisorc/1051133-cat-energy-18.git Git
+git brunch
+git chekout -b module2-task1
+git checkout -b module2-task1
+git chekout master
+git pull academymaster master
+git remote add academy git@github.com:htmlacademy-adaptive/1051133-cat-energy-18.git
+git commit -m "Правки"
+npm run stylelint
+npm -v
+node -v
+npm i
+git checkout module2-task1
+nmp test
+git add -a
+git commit -m "project"
+git push origin module2-task1
+git checkout -b module2-task2
+git commit -m "Продолжение разметки"
+git push origin module2-task2
+cd git
+cd C:\Users\Denis\Desktop
+git commit -m "0"
+git checkout master
+git pull academy master
+git push origin master
+git checkout -b module3-task1
+npm run build
+npm stop
+cd C:\Users\Denis\Desktop\Git
+git commit -m "модуль 3"
+git push origin module3-task1
+cd C:\Users\Denis\\Downloads\cat-energy-master(1)
+npm start
+cd c:\\
+takeown /F C:windows.old\* /R /A
+rmdir /S /Q C:windows.old\
+cd c:
+icacls C:windows.old\*.* /T  /administrators:F
+icacls C:windows.old\*.* /T /grant administrators:F
+cd C:\Users\Denis\Desktop\java\project
+git checkout module1-task1
+.git
+git clone git@github.com:Machisorc/1051133-kekstagram-19.git
+git checkout -b module1-task1
+git status
+git add -A
+git commit -m "модуль 1"
+git push origin module1-task1
+cd C:\Users\Denis\Desktop\java\
+git clone git@github.com:Machisorc/1051133-code-and-magick-19.git
+cd C:\Users\Denis\Desktop\java\keks
+git checkout -b module1-task2
+dir c
+dir D
+cd D
+cd D:
+dir C:
+npm
+cd C:\\Users\
+cd C:\
+cd C:\Users\Denis\Desktop\java\mage
+cd C:\\Users\Denis
+npm install grunt-critical --save-dev
+grunt
+?grunt
+>grunt
+build
+gulp
+cd C:\\Users\Denis\Desktop\BB1\
+gulp sass
+sass --version
+npm test
+cd C:\Windows\system32
+npm i browser-sync -g
+browser-sync start —server —files «php/*.php,css/*.css,js/*.js,html/*.html,*.*»
+cd C:\\Users\Denis\Desktop\GOIT
